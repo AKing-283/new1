@@ -12,13 +12,13 @@ with st.form("input_form"):
     language = st.selectbox("Select Language for Report", {
         "English": "en",
         "Hindi (हिंदी)": "hi",
-        "Tamil (தமிழ்)": "ta",
-        "Telugu (తెలుగు)": "te",
-        "Marathi (मराठी)": "mr",
-        "Gujarati (ગુજરાતી)": "gu",
-        "Punjabi (ਪੰਜਾਬੀ)": "pa",
-        "Kannada (ಕನ್ನಡ)": "kn",
-        "Bengali (বাংলা)": "bn"
+        #"Tamil (தமிழ்)": "ta",
+        #"Telugu (తెలుగు)": "te",
+        #"Marathi (मराठी)": "mr",
+        #"Gujarati (ગુજરાતી)": "gu",
+        #"Punjabi (ਪੰਜਾਬੀ)": "pa",
+        #"Kannada (ಕನ್ನಡ)": "kn",
+        #"Bengali (বাংলা)": "bn"
     })
 
     submitted = st.form_submit_button("Recommend Equipment")
