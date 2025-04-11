@@ -1,7 +1,7 @@
 import streamlit as st
 from crew_module import run_crew, generate_pdf
 
-st.set_page_config(page_title="Equipment Recommender Agent 🌾", layout="centered")
+st.set_page_config(page_title="Equipment Recommender System by Farmchain 🌾", layout="centered")
 st.title("🌿 Smart Equipment Recommender (Multi-Agent AI)")
 
 st.markdown(
