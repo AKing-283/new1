@@ -41,16 +41,16 @@ translator = Translator()
 LANGUAGE_MAP = {
     "English": "en",
     "Hindi (हिंदी)": "hi",
-    "Tamil (தமிழ்)": "ta",
-    "Telugu (తెలుగు)": "te",
-    "Marathi (मराठी)": "mr",
-    "Gujarati (ગુજરાતી)": "gu",
-    "Punjabi (ਪੰਜਾਬੀ)": "pa",
-    "Kannada (ಕನ್ನಡ)": "kn",
-    "Bengali (বাংলা)": "bn",
-    "Spanish (Español)": "es",
-    "French (Français)": "fr",
-    "German (Deutsch)": "de",
+    #"Tamil (தமிழ்)": "ta",
+    #"Telugu (తెలుగు)": "te",
+    #"Marathi (मराठी)": "mr",
+    #"Gujarati (ગુજરાતી)": "gu",
+    #"Punjabi (ਪੰਜਾਬੀ)": "pa",
+    #"Kannada (ಕನ್ನಡ)": "kn",
+    #"Bengali (বাংলা)": "bn",
+    #"Spanish (Español)": "es",
+    #"French (Français)": "fr",
+    #"German (Deutsch)": "de",
 }
 
 def run_crew(crop, soil, season, region):
