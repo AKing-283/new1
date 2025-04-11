@@ -48,4 +48,4 @@ if submitted:
 
     # Footer
     st.markdown("---")
-    st.markdown("📌 *Powered by Gemini + Multi-Agent Agricultural Analysis System*")
+    st.markdown("📌 *Powered by Farmchain")
