@@ -62,7 +62,7 @@ PDFs are styled for clarity and offline sharing.
 ```bash
 .
 ├── app.py           # Main Streamlit frontend
-├── backend.py       # Gemini agent logic + PDF generation
+├── crew.py       # Gemini agent logic + PDF generation
 ├── requirements.txt # Project dependencies
 ├── .env             # Environment variables (excluded from version control)
 └── README.md
